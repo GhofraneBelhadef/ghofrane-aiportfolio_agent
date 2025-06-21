@@ -2,3 +2,8 @@ node_modules/
 venv/
 *.pyc
 .env
+backend/.env
+backend/database/*.db
+backend/venv/
+node_modules/
+frontend/build/
